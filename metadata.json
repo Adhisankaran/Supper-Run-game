@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Endless Platformer Game",
+  "description": "An endless 2D Mario-style platformer game using HTML5 Canvas, featuring custom physics, double jumps, crouch sliding, stomping enemies, power-ups, and custom 8-bit retro sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
